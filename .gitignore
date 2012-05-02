@@ -1,6 +1,11 @@
+env/*
 doc/build
 *.pyc
 nbproject
 doc/*.pdf
 build
 dist
+*egg-info
+distribute-*.egg
+distribute-*.tar.gz
+

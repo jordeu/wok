@@ -19,4 +19,4 @@
 #
 ###############################################################################
 
-from wok.core.jobmgr.jobmgr import *
+from wok.core.jobmgr.base import *

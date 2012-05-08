@@ -19,4 +19,4 @@
 #
 ###############################################################################
 
-from wok.core.cmd.cmd import *
+from wok.core.cmd.base import *

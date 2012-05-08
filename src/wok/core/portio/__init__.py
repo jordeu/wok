@@ -19,4 +19,4 @@
 #
 ###############################################################################
 
-from wok.core.portio.portio import *
+from wok.core.portio.base import *

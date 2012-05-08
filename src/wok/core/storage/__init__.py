@@ -19,4 +19,4 @@
 #
 ###############################################################################
 
-from wok.core.storage.storage import *
+from wok.core.storage.base import *
